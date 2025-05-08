@@ -3,7 +3,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ExplorePage from './pages/ExplorePage';
-import FindJobsPage from './pages/FindjobsPage';
+import FindJobsPage from './pages/FindJobsPage';
 import HireFreelancersPage from './pages/HireFreelancersPage';
 
 const App = () => {
